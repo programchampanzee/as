@@ -1,0 +1,151 @@
+#main1{
+	width: 100%;
+	height: 460px;
+	background: url(../img/main1.jpg) center no-repeat;
+}
+#main2{
+	width:100%;
+	height: 839px;
+	background:#f3f4f8 url(../img/main2.jpg) center no-repeat;
+}
+#main3{
+	width:100%;
+	height: 808px;
+	background:url(../img/main3.jpg) center no-repeat ;
+}
+#main4{
+	width:100%;
+	height: 1000px;
+	background: #f3f4f8 url(../img/main4.jpg) center no-repeat ; ;
+}
+#main5{
+	width:100%;
+	height: 1136px;
+	background:url(../img/main5.jpg) center no-repeat ; ;
+}
+#main6{
+	width:100%;
+	height: 631px;
+	background:#f3f4f8 url(../img/main6.jpg) center no-repeat ; ;
+}
+#main7{
+	position: relative;
+	width:100%;
+	height: 631px;
+	text-align: center;
+	background: #fff;
+}
+
+.cor{
+	position: absolute;
+	left: 17%;
+	top: 35%;
+	width: 720px;
+	height: 58px;
+	
+}
+.hezuo{
+	line-height: 50px;
+	color: #167bd7;
+	font-size: 25px;
+	width: 217px;
+	height: 45px;
+	float: left;
+}
+.infor{
+	
+	float: left;
+	width: 500px;
+	height: 40px;
+	border-bottom: 2px solid #00a3e2;
+	
+}
+.cor1{
+	position: absolute;
+	left: 15%;
+	top: 45%;
+	width: 740px;
+	height: 58px;
+	
+}
+.hezuo1{
+	line-height: 50px;
+	color: #167bd7;
+	font-size: 25px;
+	width: 217px;
+	height: 45px;
+	float: left;
+}
+.infor1{
+	position: absolute;
+	
+	right: 0;
+	width: 500px;
+	height: 40px;
+	border-bottom: 2px solid #00a3e2;
+	
+}
+.cor2{
+	position: absolute;
+	left: 15%;
+	top: 55%;
+	width: 740px;
+	height: 58px;
+	
+}
+.hezuo2{
+	line-height: 50px;
+	color: #167bd7;
+	font-size: 25px;
+	width: 217px;
+	height: 45px;
+	float: left;
+}
+.infor2{
+	
+	float: right;
+	width: 500px;
+	height: 40px;
+	border-bottom: 2px solid #00a3e2;
+	
+}
+.cor3{
+	position: absolute;
+	left: 15%;
+	top: 65%;
+	width: 740px;
+	height: 58px;
+	
+}
+.hezuo3{
+	line-height: 50px;
+	color: #167bd7;
+	font-size: 25px;
+	width: 217px;
+	height: 45px;
+	float: left;
+}
+.infor3{
+	
+	float: right;
+	width: 500px;
+	height: 40px;
+	border-bottom: 2px solid #00a3e2;
+	
+}
+.sub{
+	font-family: '宋体';
+	color: #fff;
+	text-align: center;
+	font-size: 33px;
+	line-height: 60px;
+	width: 243px;
+	height: 60px;
+	border: none;
+	border-radius: 5px;
+	background: #167bd7;
+	position: absolute;
+	left: 40%;
+	bottom: 15%;
+	
+}
